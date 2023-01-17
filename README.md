@@ -7,4 +7,4 @@
 <img src="https://img.shields.io/badge/TypeScript-F8D1E?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyoung0830)](https://github.com/wooyoung0830/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyoung0830)
