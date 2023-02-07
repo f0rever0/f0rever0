@@ -1,5 +1,11 @@
 ## 🌱 Song Wooyoung
 
+### 👋 About Me
+
++ University : Dongguk Univ.
++ Email : soy0830@dgu.ac.kr 
++ Blog : https://velog.io/@soy0830
+
 ### 💻 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
@@ -14,5 +20,7 @@
 <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=Jira&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooyoung0830)
