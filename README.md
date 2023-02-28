@@ -20,7 +20,3 @@
 <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=Jira&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f0rever0)
