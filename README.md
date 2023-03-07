@@ -1,4 +1,4 @@
-## 🌱 Song WooYoung
+## 🌱 송우영 Song WooYoung
 
 ### 👋 About Me
 
