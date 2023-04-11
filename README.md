@@ -3,7 +3,7 @@
 ### 👋 About Me
 
 + University : Dongguk Univ.
-+ Email : soy0830@dgu.ac.kr 
++ Email : soy0830@dgu.ac.kr / thddndud0830@gmail.com
 + Blog : https://velog.io/@soy0830
 
 ### 💻 Tech Stack
@@ -20,3 +20,6 @@
 <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=Jira&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Python-e21E83?style=flat-square&logo=Python&logoColor=white"/>
