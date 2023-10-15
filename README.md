@@ -2,7 +2,6 @@
 
 ### 👋 About Me
 
-+ University : Dongguk Univ.
 + Email : thddndud0830@gmail.com
 + Blog : https://velog.io/@soy0830
 
