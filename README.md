@@ -22,3 +22,7 @@
 <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=Jira&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Python-819dd3?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-f1d399?style=flat-square&logo=Java&logoColor=white"></a>
