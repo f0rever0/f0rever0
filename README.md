@@ -1,11 +1,14 @@
-## 🌱 송우영 Song WooYoung
+🌱 **송우영 Song WooYoung**
 
-### 👋 About Me
+👋 About Me
 
 + Email : thddndud0830@gmail.com
 + Blog : https://velog.io/@soy0830
 
-### 💻 Tech Stack
+💻 Tech Stack
+<br/>
+
+
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/styled/component-e084c6?style=flat-square&logo=styled-components&logoColor=white"/>
