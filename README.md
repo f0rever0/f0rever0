@@ -1,7 +1,5 @@
 🌱 **송우영 Song WooYoung**
 
-👋 About Me
-
 + Email : thddndud0830@gmail.com
 + Blog : https://velog.io/@soy0830
 
