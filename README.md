@@ -1,8 +1,3 @@
-🌱 **송우영 Song WooYoung**
-
-+ Email : thddndud0830@gmail.com
-+ Blog : https://velog.io/@soy0830
-
 💻 Tech Stack
 <br/>
 
